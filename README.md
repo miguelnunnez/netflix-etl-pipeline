@@ -75,18 +75,4 @@ netflix-etl/
 - `release_year` convertido a entero
 - Campo `genres_list` generado a partir de `listed_in` (lista de géneros separados)
 
-## ✅ Checklist del entregable
-
-- [x] Extracción desde fuente (CSV Kaggle)
-- [x] Bronze Layer — datos crudos con timestamp
-- [x] Silver Layer — limpieza y validación completa
-- [x] Gold Layer — 3 tablas analíticas
-- [x] Visualizaciones (dashboard de 3 gráficos)
-- [x] Buenas prácticas: funciones modulares, logging, type hints, docstrings
-- [x] README documentado
-
----
-
-**Autor:** Miguel Angel Núñez Martínez  
-**Dataset:** [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) — Kaggle  
-
+  
